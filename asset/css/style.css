@@ -1,0 +1,163 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  background-color: white;
+}
+.konten-navbar{
+  background-color: #FFC038;
+   padding: 10px 0px 10px 0px;
+}
+
+.navbar-collapse ul li a{
+  font-weight: bold;
+}
+.navbar-collapse ul li :hover{
+  font-weight: bold;
+  color: white;
+}
+header{
+  background-color: #FFC038;
+  padding: 60px 0px 40px 0px;
+}
+.heading{
+  padding: 40px 20px 20px 20px;
+}
+.heading h2{
+  text-align: justify;
+  color: white;
+  font-family: inherit;
+  font-weight:800;
+}
+.heading p{
+  margin: 20px 0px 30px 0px;
+  text-align: justify;
+  color: white;
+  font-size: 15px;
+  font-weight:normal;
+}
+#about{
+  margin-top: 7%;
+}
+.title-about h1{
+  text-align: center;
+  margin-bottom: 7%;
+}
+.about-detail h4{
+ color: rgb(18, 170, 230);
+ font-weight: bold;
+ margin-bottom: 20px;
+}
+.about-detail p{
+  font-size: 16px;
+  text-align: justify;
+  margin-bottom: 20px;
+ }
+
+ #skillss{
+   margin-top: 7%;
+ }
+ .title-skillss h1{
+  text-align: center;
+  margin-bottom: 7%;
+}
+/* .skillss-detail button{
+  background-color: #F5B11D;
+  color: #252526;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 12px 15px 12px 15px;
+}
+.skillss-detail h5{
+  font-weight: bold;
+  font-family:inherit;
+  margin-bottom: 20px;
+ }
+ .skillss-detail p{
+   font-size: 15px;
+   text-align: justify;
+  font-family:inherit;
+  margin-bottom: 20px;
+ }
+ .list-skillss{
+   margin-bottom: 20px;
+ } */
+ .skillss-detail{
+  padding: 10px 0px 10px 50px;
+ }
+ .skillss-detail i{
+  color: rgb(18, 170, 230);
+  font-size: 40px;
+ }
+
+ #experiences{
+  margin-top: 7%;
+ }
+ .title-experiences h1{
+  text-align: center;
+  margin-bottom: 10%;
+}
+.title-experiences img{
+  width: 60%;
+  height: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.title-experiences i{
+  color: rgb(18, 170, 230);
+  font-size: 35px;
+ }
+ .experiences-desc h5{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+ }
+ .experiences-desc{
+  padding: 0px 30px 0px 30px;
+ }
+#education{
+  margin-top: 7%;
+ }
+ .title-education h1{
+  text-align: center;
+  margin-bottom: 5%;
+}
+.box-education{
+  margin-bottom: 30px;
+}
+.box-education img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+}
+.box-education h6{
+  text-align: center;
+  color: rgb(90, 87, 87);
+  margin: 10px 0px 10px 0px;
+  font-weight: bold;
+}
+
+
+#interests{
+  margin-top: 7%;
+}
+.title-interests h1{
+  text-align: center;
+  margin-bottom: 5%;
+}
+.box-interest{
+  background-color: red;
+  padding: 20px 20px 20px 20px;
+}
+
+.card{
+  background-color:rgb(237, 229, 229);
+}
+
+#awards{
+  margin-top: 7%;
+}
+.title-awards h1{
+  text-align: center;
+  margin-bottom: 5%;
+}
